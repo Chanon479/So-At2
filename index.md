@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## SOAT Trainee Cource สำหรับนักศึกษาฝึกงานสาย Website & Mobile Application Programmer ประจำปี 2022
 
-You can use the [editor on GitHub](https://github.com/Chanon479/So-At2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 1.สหกรณ์ออมทรัพย์คืออะไร ? มีหน้าที่ทำอะไร ?
+สถาบันการเงินแบบหนึ่งที่มีสมาชิกเป็นบุคคลซึ่งมีอาชีพอย่างเดียวกันหรือที่อาศัยอยู่ในชุมชนเดียวกัน
+มีวัตถุประสงค์เพื่อส่งเสริมให้สมาชิกรู้จักการออมทรัพย์ และให้กู้ยืมเมื่อเกิดความจำเป็นหรือเพื่อก่อให้เกิดประโยชน์งอกเงยและได้รับการจดทะเบียนตามพระราชบัญญัติสหกรณ์
+สามารถกู้ยืมเงินได้เมื่อเกิดความจำเป็นตาม หลักการช่วยตนเอง และช่วยเหลือซึ่งกันและกัน
 
-- Bulleted
-- List
+# 2.บริษัท SO-AT เรามี Product อะไรบ้างและลูกค้าส่วนใหญ่คือกลุ่มธุรกิจประเภทอะไร ?
+    COOP CORE Solution(ระบบบริหารงานสหกรณ์ออมทรัพย์ทั้งรูปแบบ window Application และWebApplication)
+    ATM-Online(กดเงินฝาก/เงินกู้ ที่ตู้ ATM ของธนาคารฯคู่สัญญา เกิดรายการเคลื่อนไหวทันทีที่ สหกรณ์)
+     Web Info/Member(เว็บไซต์ประชาสัมพันธ์ ข่าวสาร ประกาศของสหกรณ์ รองรับทุกอุปกรณ์การใช้งาน)
+     AD-Sync(ส่งข้อมูลอัตโนมัติเพื่อประชาสัมพันธ์ให้สมาชิกรับทราบหลังจากทำรายการทันที)
+     Mobile App (แสดงผลข้อมูลสมาชิกผ่านมือถือ,ปลอดภัยด้วย PINCODE และข้อมูลเคลื่อนไหว Realtime)
+    SMS-ALert(ส่งข่าวสาร/ข้อมูลเตือนคนค้ำ รวดเร็ว ทันเหตุการณ์)
+    Hardware (Server,workstation,PC,ตู้ Rack,สำรองไฟ,printer,passbookพิมพ์สมุดเงินฝาก)
+    Antivirus System(สุดยอดโปรแกรมแอนตี้ไวรัส ที่มีคนดาวน์โหลดใช้งานเยอะที่สุดเป็นอันดับหนึ่ง)
+    Firewall System(ปกป้องไม่ให้ถูกโจมตีจากผู้ไม่หวังดีหรือการสื่อสารที่ไม่ได้รับอนุญาต จาก intenet/LAN)
+    Calculate Loan(ระบบคำนวณอัตราการผ่อนชำระหนี้)
 
-1. Numbered
-2. List
+ ## กลุ่มธุรกิจประเภทอะไร
+    ธุรกิจการเงิน,บริการ,เทคโนโลยี
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chanon479/So-At2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ ## 3.บริษัทคู่แข่งของ SO-AT เรามีเจ้าไหนบ้างและเรามีกลยุทธุ์อะไรที่คิดว่าจะเอาชนะคู่แข่งได้บ้าง ?
+  บริษัทที่ทำเกี่ยวกับการใช้ระบบสหกรณ์เว็บไซต์และแอปพลิเคชั่น , ในส่วนบริษัทเรารองรับการบริหารจัดการด้านการเงินแบบครบวงจร ทั้งด้านเงินสด เงินโอน เช็ค พร้อมด้วยระบบการจัดการเงินรอจ่ายคืน และเงินรอตรวจสอบ แบบสมบูรณ์ที่สุดเท่าที่เราเคยมีมา
